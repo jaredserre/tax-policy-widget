@@ -114,7 +114,7 @@ select {
 }
 
 .tpw-list {
-  max-height: 620px;
+  max-height: 50vh;
   overflow: auto;
 }
 
