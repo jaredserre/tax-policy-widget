@@ -1,7 +1,624 @@
 {
-  "updated_at": null,
-  "sources": [],
-  "counts": {},
-  "errors": [],
-  "stories": []
+  "updated_at": "2026-07-09T18:22:17Z",
+  "sources": [
+    {
+      "id": "cato",
+      "name": "Cato",
+      "short": "CATO",
+      "homepage": "https://www.cato.org/tax-budget-policy"
+    },
+    {
+      "id": "cbpp",
+      "name": "CBPP",
+      "short": "CBPP",
+      "homepage": "https://www.cbpp.org/research/topics/federal-tax"
+    },
+    {
+      "id": "epi",
+      "name": "EPI",
+      "short": "EPI",
+      "homepage": "https://www.epi.org/research/taxes/"
+    },
+    {
+      "id": "itep",
+      "name": "ITEP",
+      "short": "ITEP",
+      "homepage": "https://itep.org/federal-policy/"
+    },
+    {
+      "id": "taxfoundation",
+      "name": "Tax Foundation",
+      "short": "TF",
+      "homepage": "https://taxfoundation.org/research/federal-tax/"
+    },
+    {
+      "id": "tpc",
+      "name": "Tax Policy Center",
+      "short": "TPC",
+      "homepage": "https://taxpolicycenter.org/research"
+    },
+    {
+      "id": "ybl",
+      "name": "Yale Budget Lab",
+      "short": "YBL",
+      "homepage": "https://budgetlab.yale.edu/topic/taxes"
+    }
+  ],
+  "counts": {
+    "cato": 0,
+    "cbpp": 0,
+    "epi": 0,
+    "itep": 14,
+    "taxfoundation": 25,
+    "tpc": 0,
+    "ybl": 12
+  },
+  "errors": [
+    "Cato: HTTPError: 403 Client Error: Forbidden for url: https://www.cato.org/tax-budget-policy",
+    "CBPP: HTTPError: 403 Client Error: Forbidden for url: https://www.cbpp.org/research/topics/federal-tax",
+    "Tax Policy Center: HTTPError: 403 Client Error: Forbidden for url: https://taxpolicycenter.org/research"
+  ],
+  "stories": [
+    {
+      "id": "2ec97fcb6be647e9",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Analysis June 12, 2026 The Distributional Effects of a Federal Gas Tax Holiday A federal gas tax holiday would offset a small portion of the gasoline price increase since the Iran conflict began, with benefits that vary substantially within income groups.",
+      "url": "https://budgetlab.yale.edu/research/distributional-effects-federal-gas-tax-holiday",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:17Z"
+    },
+    {
+      "id": "40af079e7c340c9b",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Scores May 4, 2026 Refining Revenue Estimates for Taxing Carried Interest New data and research make it possible to refine estimates of how much revenue can be raised from taxing carried interest. A broad carried-interest proposal could raise $100 billion over ten years, with substantially more revenue raised after that.",
+      "url": "https://budgetlab.yale.edu/research/refining-revenue-estimates-taxing-carried-interest",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:17Z"
+    },
+    {
+      "id": "dd7d47157f7eaa23",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Scores April 15, 2026 Budgetary Effects of Increased IRS Funding",
+      "url": "https://budgetlab.yale.edu/research/budgetary-effects-increased-irs-funding",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:17Z"
+    },
+    {
+      "id": "bb07d5b580a82981",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Scores April 10, 2026 A Weakened IRS Has Substantial Consequences Spending on the IRS has a very high rate of return in the form of increased revenue. IRS reductions have likely resulted in about $861 billion in decreased revenues.",
+      "url": "https://budgetlab.yale.edu/research/weakened-irs-has-substantial-consequences",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:17Z"
+    },
+    {
+      "id": "53c4c9fd6bd8002d",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Scores March 12, 2026 Senator Booker's Keep Your Pay Act Expanding the standard deduction, CTC, and EITC would boost after-tax incomes for low- and middle-income households, partially offset by increases in top income tax rates.",
+      "url": "https://budgetlab.yale.edu/research/senator-bookers-keep-your-pay-act",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:17Z"
+    },
+    {
+      "id": "e6fa2dd9b8d1e7da",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Scores March 12, 2026 Senator Van Hollen’s Working Americans’ Tax Cut Act The proposal would cut middle-income taxes through a new cap on tax liability, paid for by a progressive surtax on filers earning over $1 million.",
+      "url": "https://budgetlab.yale.edu/research/senator-van-hollens-working-americans-tax-cut-act",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:17Z"
+    },
+    {
+      "id": "5ebae3a51aef33c7",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Scores March 6, 2026 Indexing Capital Gains to Inflation Indexing capital gains to inflation would cost between roughly $170 billion and $1 trillion over ten years, with benefits concentrated among top income earners.",
+      "url": "https://budgetlab.yale.edu/research/indexing-capital-gains-inflation",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:17Z"
+    },
+    {
+      "id": "d36fbfb3bde23c63",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Scores February 5, 2026 The Real Super Bowl LX Postgame Show: Reporting and Taxing Sports Betting & Fantasy Winnings The Super Bowl alone could bring in upwards of $175 million in tax revenue if a 10% tax were implemented.",
+      "url": "https://budgetlab.yale.edu/research/real-super-bowl-lx-postgame-show-reporting-and-taxing-sports-betting-fantasy-winnings",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:17Z"
+    },
+    {
+      "id": "5e8370204fb88cf5",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Analysis December 12, 2025 Trump's Platinum Visa: A Tax Break for Global High Earners?",
+      "url": "https://budgetlab.yale.edu/research/trumps-platinum-visa-tax-break-global-high-earners",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:17Z"
+    },
+    {
+      "id": "39a27071302ce8eb",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Scores November 20, 2025 Budgetary Effects of Federal Unemployment Tax Act Reform",
+      "url": "https://budgetlab.yale.edu/research/budgetary-effects-federal-unemployment-tax-act-reform",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:17Z"
+    },
+    {
+      "id": "b1cd66b24b59eac4",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Scores November 17, 2025 Estimated Budgetary, Distributional, and Macroeconomic Effects of “Tariff Dividends”",
+      "url": "https://budgetlab.yale.edu/research/estimated-budgetary-distributional-and-macroeconomic-effects-tariff-dividends",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:17Z"
+    },
+    {
+      "id": "530f75a02a840bee",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Scores October 29, 2025 Budgetary Effects of Expansion of Employee Stock Ownership Plans",
+      "url": "https://budgetlab.yale.edu/research/budgetary-effects-expansion-employee-stock-ownership-plans",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:17Z"
+    },
+    {
+      "id": "490f0fa572cb40ec",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "Mission & History",
+      "url": "https://itep.org/about",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "39e2e79af8aab5ad",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "The ITEP Tax Microsimulation Model",
+      "url": "https://itep.org/itep-tax-model",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "0e881885404cdfb3",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "Board of Directors",
+      "url": "https://itep.org/board-directors",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "374f620479bd3caf",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "State Tax Policy",
+      "url": "https://itep.org/state-policy",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "8b11ac3337bdde5c",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "Local Tax Policy",
+      "url": "https://itep.org/local-policy",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "cc751968a1149fbe",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "Reports & Briefs",
+      "url": "https://itep.org/publications",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "27a72a424641bc7a",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "Who Pays? 7th Edition",
+      "url": "https://itep.org/whopays",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "769a1d0fce1c5e0e",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "Corporate Tax Avoidance",
+      "url": "https://itep.org/corporate-tax-avoidance",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "f0499ddd7002e2a2",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "Guide to State & Local Taxes",
+      "url": "https://itep.org/tax-guide",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "fb6d85452a2cfc0a",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "State-by-State Estimates of the First Year of Trump’s Tax Policies: All But the Richest Americans Face Higher Taxes",
+      "url": "https://itep.org/trump-obbba-taxes-lower-for-the-rich-tariffs",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "bb7f8ff7822ec1b0",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "Four Big Tech Companies Avoid $51 Billion in Taxes in Wake of One Big Beautiful Bill Act",
+      "url": "https://itep.org/trump-meta-tesla-alphabet-amazon-obbba-taxes",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "44dceb533691e282",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "The Child Tax Credit Leaves Out Millions of Children in 2026. There Are Better Alternatives.",
+      "url": "https://itep.org/child-tax-credit-2026-obbba-trump-taxes",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "98d205371437e122",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "Tesla Reported Zero Federal Income Tax on $5.7 Billion of U.S. Income in 2025",
+      "url": "https://itep.org/tesla-reported-zero-federal-income-tax-in-2025",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "5df1cfda62d4363b",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "[email protected]",
+      "url": "https://itep.org/cdn-cgi/l/email-protection",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "3d74e088ba6607b6",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Skip to content",
+      "url": "https://taxfoundation.org/research/federal-tax",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "c08e2df9aed460d4",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "All Research",
+      "url": "https://taxfoundation.org/all-research-data",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "9b738e5998975dab",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Meet Our Experts",
+      "url": "https://taxfoundation.org/about-us/staff-and-board/experts",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "2a682bd951dd7e30",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "State Tax Competitiveness Index",
+      "url": "https://taxfoundation.org/statetaxindex",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "71511bf8b28988ac",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "European Tax Policy Scorecard",
+      "url": "https://taxfoundation.org/eu/research/european-tax-policy-scorecard",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "d99e4c1618cc1faa",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "One Big Beautiful Bill Act",
+      "url": "https://taxfoundation.org/tags/one-big-beautiful-bill-act-obbb",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "e97c16de2bb2acd4",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Property Taxes",
+      "url": "https://taxfoundation.org/research/state-tax/property-tax-relief",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "20a780520023fd39",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Debt & Deficits",
+      "url": "https://taxfoundation.org/tags/debt-and-interest-rates",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "fcd79196808a70ac",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "State Tax Trends",
+      "url": "https://taxfoundation.org/tags/state-tax-trends",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "497de0e90a464496",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Wealth Taxes",
+      "url": "https://taxfoundation.org/tags/wealth-tax",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "ac4f1715269db1b7",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Taxes on Savers & Investors",
+      "url": "https://taxfoundation.org/tags/taxing-savers-and-investors",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "643b72cebce5cc12",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Global Tax Deal",
+      "url": "https://taxfoundation.org/tags/global-tax-deal",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "2fc53503002a1126",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "State Tax Maps",
+      "url": "https://taxfoundation.org/datamaps/state-maps",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "773ce99e6b4bb251",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "European Tax Maps",
+      "url": "https://taxfoundation.org/datamaps/european-maps",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "a5dd71dd9f4d5724",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Blog & Commentary",
+      "url": "https://taxfoundation.org/blog-commentary",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "6a232dfd6111a4c0",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Tax Policy Blog",
+      "url": "https://taxfoundation.org/blog",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "c3c8c117ef5bfb53",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "See All Testimony",
+      "url": "https://taxfoundation.org/testimony",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "fe0a37e7721c9330",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "See All Op-eds",
+      "url": "https://taxfoundation.org/op-eds",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "ab1f9c9c2d1e263c",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "The Deduction Podcast",
+      "url": "https://taxfoundation.org/podcast",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "81b5b303123dd172",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Poland’s Windfall Profits Tax: Short-Term Fiscal Gains for Long-Term Economic Costs",
+      "url": "https://taxfoundation.org/blog/poland-windfall-profits-tax",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "c6463696be19af97",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Testimony: Are Digital Services Taxes a Viable Solution for the EU Budget?",
+      "url": "https://taxfoundation.org/testimony/digital-taxes-eu-budget",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "0378e792843556c6",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "USMCA Is Up For Review. The US Would Be Foolish Not to Extend It",
+      "url": "https://taxfoundation.org/oped/usmca-trump-trade-canada-mexico",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "4122d986256e88a6",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "The Short Form Blog",
+      "url": "https://taxfoundation.org/tags/the-short-form",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "4b0e74d71f155849",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Meet Our Board",
+      "url": "https://taxfoundation.org/about-us/staff-and-board/board",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "e15f5881541bcd56",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Job Openings",
+      "url": "https://taxfoundation.org/about-us/careers",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-09T18:22:16Z"
+    }
+  ]
 }
