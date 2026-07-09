@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tax Policy Monitor Widget</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="tpw" id="app" aria-live="polite">
+    <header class="tpw-header">
+      <div>
+        <h1>Tax Policy Monitor</h1>
+        <p id="status">Loading stories...</p>
+      </div>
+      <button id="refresh" type="button" title="Refresh">↻</button>
+    </header>
+
+    <section class="tpw-toolbar">
+      <input id="search" type="search" placeholder="Search..." autocomplete="off" />
+      <select id="sourceFilter" aria-label="Filter by source">
+        <option value="all">All sources</option>
+      </select>
+    </section>
+
+    <section class="tpw-summary" id="summary" hidden></section>
+    <section class="tpw-list" id="stories"></section>
+
+    <footer class="tpw-footer">
+      <span id="updated">Updated unknown</span>
+      <a id="viewJson" href="stories.json" target="_blank" rel="noopener">JSON</a>
+    </footer>
+  </main>
+  <script src="widget.js"></script>
+</body>
+</html>
