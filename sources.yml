@@ -3,23 +3,15 @@ sources:
     name: Cato
     short: CATO
     homepage: https://www.cato.org/tax-budget-policy
-    type: scrape
-    url: https://www.cato.org/tax-budget-policy
-    include_url_contains:
-      - /commentary/
-      - /policy-analysis/
-      - /blog/
-      - /briefing-paper/
+    type: rss
+    url: https://www.cato.org/rss.xml
 
   - id: cbpp
     name: CBPP
     short: CBPP
     homepage: https://www.cbpp.org/research/topics/federal-tax
-    type: scrape
-    url: https://www.cbpp.org/research/topics/federal-tax
-    include_url_contains:
-      - /research/
-      - /blog/
+    type: rss
+    url: https://www.cbpp.org/rss.xml
 
   - id: epi
     name: EPI
@@ -60,13 +52,8 @@ sources:
     name: Tax Policy Center
     short: TPC
     homepage: https://taxpolicycenter.org/research
-    type: scrape
-    url: https://taxpolicycenter.org/research
-    include_url_contains:
-      - /briefing-book/
-      - /taxvox/
-      - /publications/
-      - /model-estimates/
+    type: rss
+    url: https://taxpolicycenter.org/rss.xml
 
   - id: ybl
     name: Yale Budget Lab
