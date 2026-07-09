@@ -116,6 +116,11 @@ def fetch_rss(src: dict) -> list[dict]:
 
 def fetch_page(src: dict) -> list[dict]:
     resp = requests.get(src["url"], headers=HEADERS, timeout=25)
+
+    if resp.status_code in (403, 429):
+        print(f"SKIP {src['name']}: HTTP {resp.status_code}")
+        return []
+
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
     candidates = []
