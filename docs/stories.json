@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T16:40:59Z",
+  "updated_at": "2026-07-16T18:19:31Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "74c75d47e0e40179",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "A Taxing Approach to High Energy Costs Will Backfire",
+      "url": "https://taxfoundation.org/oped/oil-gas-tax-windfall-profits",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-16T18:19:30Z"
+    },
     {
       "id": "2ec97fcb6be647e9",
       "source_id": "ybl",
