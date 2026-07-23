@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T12:48:28Z",
+  "updated_at": "2026-07-23T15:24:24Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "3937e70293eb2355",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Scores July 23, 2026 Budgetary Effects of Changing the Capital-Gains Tax Treatment of Housing During Life and at Death",
+      "url": "https://budgetlab.yale.edu/research/budgetary-effects-changing-capital-gains-tax-treatment-housing-during-life-and-death",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-23T15:24:24Z"
+    },
     {
       "id": "74c75d47e0e40179",
       "source_id": "taxfoundation",
