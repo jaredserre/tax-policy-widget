@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T15:24:24Z",
+  "updated_at": "2026-07-23T17:45:11Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "66365abba7da8dd0",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "The WHO’s Excise Tax Policy Aims at the Wrong Target",
+      "url": "https://taxfoundation.org/blog/eu-tobacco-excise-tax-world-health-organization",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-23T17:45:10Z"
+    },
     {
       "id": "3937e70293eb2355",
       "source_id": "ybl",
