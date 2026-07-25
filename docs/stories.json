@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T19:33:59Z",
+  "updated_at": "2026-07-25T21:08:56Z",
   "sources": [
     {
       "id": "cato",
@@ -49,11 +49,13 @@
     "cbpp": 0,
     "epi": 0,
     "itep": 14,
-    "taxfoundation": 25,
+    "taxfoundation": 0,
     "tpc": 0,
     "ybl": 12
   },
-  "errors": [],
+  "errors": [
+    "Tax Foundation: ReadTimeout: HTTPSConnectionPool(host='taxfoundation.org', port=443): Read timed out. (read timeout=25)"
+  ],
   "stories": [
     {
       "id": "66365abba7da8dd0",
