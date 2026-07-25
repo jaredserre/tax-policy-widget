@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T21:08:56Z",
+  "updated_at": "2026-07-25T22:10:56Z",
   "sources": [
     {
       "id": "cato",
@@ -49,14 +49,23 @@
     "cbpp": 0,
     "epi": 0,
     "itep": 14,
-    "taxfoundation": 0,
+    "taxfoundation": 25,
     "tpc": 0,
     "ybl": 12
   },
-  "errors": [
-    "Tax Foundation: ReadTimeout: HTTPSConnectionPool(host='taxfoundation.org', port=443): Read timed out. (read timeout=25)"
-  ],
+  "errors": [],
   "stories": [
+    {
+      "id": "c50044bbe52c79be",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "A Competitive Corporate Tax Code is Key to Sustaining Strong Economic Growth",
+      "url": "https://taxfoundation.org/blog/corporate-tax-code-is-key-to-sustaining-strong-economic-growth",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-25T22:10:56Z"
+    },
     {
       "id": "66365abba7da8dd0",
       "source_id": "taxfoundation",
