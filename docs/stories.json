@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T12:12:41Z",
+  "updated_at": "2026-07-28T15:33:35Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "f3b81eb05ee597c2",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Options for Reforming America’s Tax Code",
+      "url": "https://taxfoundation.org/tax-reform-guide",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-28T15:33:35Z"
+    },
     {
       "id": "c50044bbe52c79be",
       "source_id": "taxfoundation",
