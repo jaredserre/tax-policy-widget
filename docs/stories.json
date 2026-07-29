@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T15:18:28Z",
+  "updated_at": "2026-07-29T17:37:42Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "d965e427caca87dd",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Full Expensing in the United States and Canada Boost Worldwide Investment Climate",
+      "url": "https://taxfoundation.org/blog/us-bonus-depreciation-oecd-tax-policy",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-07-29T17:37:42Z"
+    },
     {
       "id": "f3b81eb05ee597c2",
       "source_id": "taxfoundation",
