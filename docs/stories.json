@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T19:56:22Z",
+  "updated_at": "2026-08-03T21:21:37Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "400fa8cedd7d5861",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Tariff Refunds Have Wiped Out Tariff Revenue Since May",
+      "url": "https://taxfoundation.org/blog/tariff-refunds-wiped-out-tariff-revenue-since-may",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-03T21:21:37Z"
+    },
     {
       "id": "d965e427caca87dd",
       "source_id": "taxfoundation",
