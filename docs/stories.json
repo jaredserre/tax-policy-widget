@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T20:47:24Z",
+  "updated_at": "2026-08-08T21:44:38Z",
   "sources": [
     {
       "id": "cato",
@@ -48,14 +48,12 @@
     "cato": 0,
     "cbpp": 0,
     "epi": 0,
-    "itep": 0,
+    "itep": 14,
     "taxfoundation": 25,
     "tpc": 0,
     "ybl": 12
   },
-  "errors": [
-    "ITEP: ReadTimeout: HTTPSConnectionPool(host='itep.org', port=443): Read timed out. (read timeout=25)"
-  ],
+  "errors": [],
   "stories": [
     {
       "id": "400fa8cedd7d5861",
