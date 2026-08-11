@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T18:08:46Z",
+  "updated_at": "2026-08-11T19:20:18Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "d345be6e06462ee5",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Why Billionaires Are Still Leaving California",
+      "url": "https://taxfoundation.org/oped/california-billionaire-tax-migration",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-11T19:20:18Z"
+    },
     {
       "id": "9fbcb4118eb5b40b",
       "source_id": "taxfoundation",
