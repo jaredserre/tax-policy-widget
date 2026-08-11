@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T22:04:04Z",
+  "updated_at": "2026-08-11T23:02:13Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "1a9cb8fd20588454",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "The Five Most Pro-Growth Options in the Options Guide",
+      "url": "https://taxfoundation.org/blog/five-most-pro-growth-tax-options-in-the-options-guide",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-11T23:02:12Z"
+    },
     {
       "id": "d345be6e06462ee5",
       "source_id": "taxfoundation",
