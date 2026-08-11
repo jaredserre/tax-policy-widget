@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T15:15:40Z",
+  "updated_at": "2026-08-11T17:11:28Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "9fbcb4118eb5b40b",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "If Amendment 5 Passes, Lawmakers Need a Zephyr, not a Gale, to Sail Missouri to Tax Competitiveness",
+      "url": "https://taxfoundation.org/oped/missouri-income-tax-amendment-5",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-11T17:11:28Z"
+    },
     {
       "id": "400fa8cedd7d5861",
       "source_id": "taxfoundation",
