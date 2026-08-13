@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T15:14:23Z",
+  "updated_at": "2026-08-13T17:11:28Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "8cd77b3266a6d8e7",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "From Temporary to Permanent Full Expensing: Strengthening Canada’s Investment Climate",
+      "url": "https://taxfoundation.org/blog/permanent-full-expensing-canada-economy",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-13T17:11:28Z"
+    },
     {
       "id": "2a8ee5369159c789",
       "source_id": "taxfoundation",
