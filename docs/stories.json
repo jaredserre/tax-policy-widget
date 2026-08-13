@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T21:02:02Z",
+  "updated_at": "2026-08-13T22:02:04Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "550775f6878b8b58",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "New Congressional Data Center Tax Proposals Threaten US AI Investment",
+      "url": "https://taxfoundation.org/blog/congressional-data-center-tax-proposals-us-ai-investment",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-13T22:02:03Z"
+    },
     {
       "id": "8cd77b3266a6d8e7",
       "source_id": "taxfoundation",
