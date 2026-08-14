@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T19:13:42Z",
+  "updated_at": "2026-08-14T20:44:42Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "5b56334e0913854d",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Maryland Court Strikes Down Digital Ad Tax",
+      "url": "https://taxfoundation.org/blog/maryland-digital-ad-tax",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-14T20:44:42Z"
+    },
     {
       "id": "158129e9a2f5f749",
       "source_id": "taxfoundation",
