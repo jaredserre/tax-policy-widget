@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T17:10:25Z",
+  "updated_at": "2026-08-14T18:07:57Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "158129e9a2f5f749",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Good Tax Reform Starts with Good Process",
+      "url": "https://taxfoundation.org/blog/dominican-republic-tax-reform",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-14T18:07:57Z"
+    },
     {
       "id": "550775f6878b8b58",
       "source_id": "taxfoundation",
