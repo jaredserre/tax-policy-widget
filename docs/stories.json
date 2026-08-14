@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T20:44:42Z",
+  "updated_at": "2026-08-14T21:39:42Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "6e28004754faebc3",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Vehicle Miles Traveled Taxes Need Not Invade Drivers’ Privacy",
+      "url": "https://taxfoundation.org/blog/vehicle-miles-traveled-tax-vmt-privacy",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-14T21:39:42Z"
+    },
     {
       "id": "5b56334e0913854d",
       "source_id": "taxfoundation",
