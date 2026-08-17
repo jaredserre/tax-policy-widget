@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T16:44:57Z",
+  "updated_at": "2026-08-17T17:43:56Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "34ed6220f04b8814",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Scores August 17, 2026 Federal tax implications of legalizing marijuana Federal taxation of marijuana would likely raise significant revenues, but the magnitude is especially uncertain given the complicated legal picture",
+      "url": "https://budgetlab.yale.edu/research/federal-tax-implications-legalizing-marijuana",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-17T17:43:56Z"
+    },
     {
       "id": "6e28004754faebc3",
       "source_id": "taxfoundation",
