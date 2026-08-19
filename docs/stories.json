@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T21:39:55Z",
+  "updated_at": "2026-08-19T22:40:16Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "e3fdd68ee1892244",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "The Options Guide Shows a Better Way to Fund Social Security",
+      "url": "https://taxfoundation.org/blog/fund-social-security-tax-options",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-19T22:40:15Z"
+    },
     {
       "id": "34ed6220f04b8814",
       "source_id": "ybl",
