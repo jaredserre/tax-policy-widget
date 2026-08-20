@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T15:48:39Z",
+  "updated_at": "2026-08-20T16:49:53Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "504258a0c0d7ac60",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Tracking the Impact of the Trump Tariffs",
+      "url": "https://taxfoundation.org/research/federal-tax/trump-tariffs-trade-war",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-20T16:49:52Z"
+    },
     {
       "id": "e3fdd68ee1892244",
       "source_id": "taxfoundation",
