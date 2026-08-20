@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T18:58:25Z",
+  "updated_at": "2026-08-20T19:44:47Z",
   "sources": [
     {
       "id": "cato",
@@ -60,7 +60,7 @@
       "source_id": "taxfoundation",
       "source": "Tax Foundation",
       "source_short": "TF",
-      "title": "Tracking the Impact of the Trump Tariffs",
+      "title": "Impact of US Tariffs",
       "url": "https://taxfoundation.org/research/federal-tax/trump-tariffs-trade-war",
       "published_at": null,
       "summary": "",
