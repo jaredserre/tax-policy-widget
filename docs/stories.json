@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T17:44:16Z",
+  "updated_at": "2026-08-21T18:55:18Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "214bbfe2d8320ed5",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Diving into the Differences Between Tax Transparency Regimes",
+      "url": "https://taxfoundation.org/blog/tax-transparency-oecd",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-21T18:55:18Z"
+    },
     {
       "id": "504258a0c0d7ac60",
       "source_id": "taxfoundation",
