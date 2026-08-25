@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T20:44:58Z",
+  "updated_at": "2026-08-25T21:43:15Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "175c4a7fd2961b9d",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "States Continue to Improperly Tax Gold Bullion",
+      "url": "https://taxfoundation.org/blog/state-sales-tax-gold-bullion",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-25T21:43:14Z"
+    },
     {
       "id": "214bbfe2d8320ed5",
       "source_id": "taxfoundation",
