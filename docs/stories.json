@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T16:58:31Z",
+  "updated_at": "2026-08-26T19:18:33Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,28 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "6c3091611a57c2cd",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "New Food and Drug Administration Commissioner Should Reform the Center for Tobacco Products",
+      "url": "https://taxfoundation.org/blog/fda-tobacco-regulation-reform",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-26T19:18:33Z"
+    },
+    {
+      "id": "ea42c345418170c8",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Will Trump Accounts Make Saving Easier?",
+      "url": "https://taxfoundation.org/oped/trump-accounts-saving",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-26T19:18:33Z"
+    },
     {
       "id": "175c4a7fd2961b9d",
       "source_id": "taxfoundation",
