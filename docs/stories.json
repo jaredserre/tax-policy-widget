@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:47:33Z",
+  "updated_at": "2026-08-31T20:03:45Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "eeca153cea2186e5",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Testimony: Legislative Proposal to Adapt the Income Tax Code to the Digital Economy Repeats the Economic and Legal Mistakes of Digital Services Taxes",
+      "url": "https://taxfoundation.org/testimony/belgium-digital-tax-proposal",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-31T20:03:45Z"
+    },
     {
       "id": "96ab6f3504eb5588",
       "source_id": "taxfoundation",
