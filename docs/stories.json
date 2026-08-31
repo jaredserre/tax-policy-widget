@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T20:03:45Z",
+  "updated_at": "2026-08-31T23:50:27Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "fd310eb370d71491",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Siim Kallas Proved the Hard Work of Sound Tax Reform Pays Off",
+      "url": "https://taxfoundation.org/blog/siim-kallas-hard-work-sound-tax-reform",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-08-31T23:50:27Z"
+    },
     {
       "id": "eeca153cea2186e5",
       "source_id": "taxfoundation",
