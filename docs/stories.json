@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T16:33:37Z",
+  "updated_at": "2026-09-02T19:47:13Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "4533f73810404ea5",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "What Five Revenue Raisers in the Options Guide Tell Us About Sound Tax Reform",
+      "url": "https://taxfoundation.org/blog/tax-revenue-raisers-tax-reform-guide",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-09-02T19:47:13Z"
+    },
     {
       "id": "04798a4b4d963156",
       "source_id": "taxfoundation",
