@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T22:34:12Z",
+  "updated_at": "2026-09-04T00:58:23Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "8ac39e93291fdbec",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Getting Crypto Tax Reform Right Means Prioritizing Neutrality",
+      "url": "https://taxfoundation.org/blog/getting-cryptocurrency-tax-reform-right-means-prioritizing-neutrality",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-09-04T00:58:22Z"
+    },
     {
       "id": "4533f73810404ea5",
       "source_id": "taxfoundation",
