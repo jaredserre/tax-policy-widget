@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:21:20Z",
+  "updated_at": "2026-09-09T16:37:43Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "4646bae234dc2f00",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "The Destination-Based Cash Flow Tax Remains a Strong Option for US Business Tax Reform",
+      "url": "https://taxfoundation.org/blog/destination-based-cash-flow-tax-strong-option-for-us-business-tax-reform",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-09-09T16:37:42Z"
+    },
     {
       "id": "11a13610a2bd5538",
       "source_id": "taxfoundation",
