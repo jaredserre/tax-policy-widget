@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T19:45:25Z",
+  "updated_at": "2026-09-09T22:32:56Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "c3fb645ca37af075",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "The Tax Problem You, Me, and Patrick Mahomes Have in Common",
+      "url": "https://taxfoundation.org/blog/common-tax-problem-you-me-patrick-mahomes",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-09-09T22:32:56Z"
+    },
     {
       "id": "dc8de33ef03ba967",
       "source_id": "taxfoundation",
