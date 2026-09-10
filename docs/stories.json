@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T16:23:28Z",
+  "updated_at": "2026-09-10T19:41:12Z",
   "sources": [
     {
       "id": "cato",
@@ -48,13 +48,26 @@
     "cato": 0,
     "cbpp": 0,
     "epi": 0,
-    "itep": 14,
+    "itep": 0,
     "taxfoundation": 25,
     "tpc": 0,
     "ybl": 12
   },
-  "errors": [],
+  "errors": [
+    "ITEP: ReadTimeout: HTTPSConnectionPool(host='itep.org', port=443): Read timed out. (read timeout=25)"
+  ],
   "stories": [
+    {
+      "id": "9837530e09cd1f2e",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "No, Tariffs Can’t Fund $5,000 Dividends to All Adult US Citizens",
+      "url": "https://taxfoundation.org/blog/trump-dividend-5000-check-tariff-revenue",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-09-10T19:41:12Z"
+    },
     {
       "id": "c3fb645ca37af075",
       "source_id": "taxfoundation",
