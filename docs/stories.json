@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T11:19:26Z",
+  "updated_at": "2026-09-11T16:27:34Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "98164d5c892eed43",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Teachers Are Omitting a Big Part of Financial Literacy",
+      "url": "https://taxfoundation.org/oped/financial-literacy-tax-code",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-09-11T16:27:33Z"
+    },
     {
       "id": "9837530e09cd1f2e",
       "source_id": "taxfoundation",
