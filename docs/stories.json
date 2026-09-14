@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T19:21:08Z",
+  "updated_at": "2026-09-14T23:07:17Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "9bb7d6fa7eb92f1a",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "What the 1990s-Era “Bit Tax” Can Teach Us About AI Tax Proposals",
+      "url": "https://taxfoundation.org/blog/what-the-1990s-era-bit-tax-can-teach-us-about-ai-tax-proposals",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-09-14T23:07:16Z"
+    },
     {
       "id": "98164d5c892eed43",
       "source_id": "taxfoundation",
