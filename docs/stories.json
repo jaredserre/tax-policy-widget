@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T21:25:09Z",
+  "updated_at": "2026-09-16T00:18:50Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "568c3f97c565ddec",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Options Guide Shows the “No Tax On” Deductions Are Costly and Complex",
+      "url": "https://taxfoundation.org/blog/trump-no-tax-on-deductions-are-costly-and-complex",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-09-16T00:18:50Z"
+    },
     {
       "id": "9bb7d6fa7eb92f1a",
       "source_id": "taxfoundation",
