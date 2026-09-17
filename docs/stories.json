@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T13:26:16Z",
+  "updated_at": "2026-09-17T18:13:05Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "bc42ad7d8c09b09d",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Three Facts Straightening Out the Debate Over Bonus Depreciation",
+      "url": "https://taxfoundation.org/blog/three-facts-straightening-out-the-debate-over-bonus-depreciation",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-09-17T18:13:05Z"
+    },
     {
       "id": "568c3f97c565ddec",
       "source_id": "taxfoundation",
