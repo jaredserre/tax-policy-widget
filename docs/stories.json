@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T14:52:33Z",
+  "updated_at": "2026-09-22T18:54:11Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "192dda41e0edc955",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Tobacco Excise Directive: Trade-Offs for the Harmonization Vision",
+      "url": "https://taxfoundation.org/blog/eu-tobacco-tax-excise-directive-2026",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-09-22T18:54:10Z"
+    },
     {
       "id": "bc42ad7d8c09b09d",
       "source_id": "taxfoundation",
