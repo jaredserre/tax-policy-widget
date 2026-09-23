@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T11:34:26Z",
+  "updated_at": "2026-09-23T16:56:48Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "346ff1c83e54482e",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "States’ Nonconformity with Federal Measurements Creates “Barrels” of Compliance Costs",
+      "url": "https://taxfoundation.org/blog/state-barrel-tax-federal-conformity",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-09-23T16:56:47Z"
+    },
     {
       "id": "192dda41e0edc955",
       "source_id": "taxfoundation",
