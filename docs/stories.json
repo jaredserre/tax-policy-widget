@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T08:28:54Z",
+  "updated_at": "2026-09-29T15:50:27Z",
   "sources": [
     {
       "id": "cato",
@@ -48,13 +48,24 @@
     "cato": 0,
     "cbpp": 0,
     "epi": 0,
-    "itep": 14,
+    "itep": 15,
     "taxfoundation": 25,
     "tpc": 0,
     "ybl": 12
   },
   "errors": [],
   "stories": [
+    {
+      "id": "542d4986e815b8de",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "Interactives",
+      "url": "https://itep.org/interactives",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-09-29T15:50:27Z"
+    },
     {
       "id": "01ed62aeab83b7c6",
       "source_id": "taxfoundation",
