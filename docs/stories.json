@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T15:50:27Z",
+  "updated_at": "2026-09-29T20:46:02Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "87f799174ef9a5be",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Proposal to Adjust Tax Treatment of Mutual Funds Improves Neutrality in the Tax Code",
+      "url": "https://taxfoundation.org/blog/proposal-tax-treatment-of-mutual-funds-improves-neutrality-in-the-tax-code",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-09-29T20:46:01Z"
+    },
     {
       "id": "542d4986e815b8de",
       "source_id": "itep",
