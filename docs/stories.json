@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T20:46:02Z",
+  "updated_at": "2026-09-30T00:26:32Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "d78b94b00a0ae732",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Why Expensing New Rental Housing Is One of the Best Ways to Tackle the Housing Supply Problem",
+      "url": "https://taxfoundation.org/blog/why-expensing-new-rental-housing-best-ways-to-tackle-the-housing-supply",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-09-30T00:26:32Z"
+    },
     {
       "id": "87f799174ef9a5be",
       "source_id": "taxfoundation",
