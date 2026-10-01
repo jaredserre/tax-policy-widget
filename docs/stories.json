@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T13:12:01Z",
+  "updated_at": "2026-10-01T18:55:10Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "078242baace7084d",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Inflation Costs New Jerseyans More than a Rebate Check",
+      "url": "https://taxfoundation.org/oped/new-jersey-rebate-property-tax-inflation",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-01T18:55:09Z"
+    },
     {
       "id": "d78b94b00a0ae732",
       "source_id": "taxfoundation",
