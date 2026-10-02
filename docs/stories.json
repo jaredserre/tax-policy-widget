@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T16:16:16Z",
+  "updated_at": "2026-10-02T21:19:31Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "f182d2f4c19ef133",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "Colorado’s Election Day Choice on Income Taxes",
+      "url": "https://taxfoundation.org/blog/colorado-income-tax-amendment-87-proposition-136",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-02T21:19:30Z"
+    },
     {
       "id": "078242baace7084d",
       "source_id": "taxfoundation",
