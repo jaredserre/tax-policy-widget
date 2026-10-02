@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T09:44:36Z",
+  "updated_at": "2026-10-02T16:16:16Z",
   "sources": [
     {
       "id": "cato",
@@ -48,7 +48,7 @@
     "cato": 0,
     "cbpp": 0,
     "epi": 0,
-    "itep": 15,
+    "itep": 14,
     "taxfoundation": 25,
     "tpc": 0,
     "ybl": 12
