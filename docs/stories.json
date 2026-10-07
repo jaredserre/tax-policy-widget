@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T16:27:28Z",
+  "updated_at": "2026-10-07T21:58:21Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "816cf99c77512427",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "A Small Value-Added Tax Could Pay for Tariff Repeal",
+      "url": "https://taxfoundation.org/blog/repeal-trump-tariffs-vat-consumption-taxes",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-07T21:58:21Z"
+    },
     {
       "id": "9f8dad580b0e2131",
       "source_id": "taxfoundation",
