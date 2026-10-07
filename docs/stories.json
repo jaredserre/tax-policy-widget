@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T08:37:50Z",
+  "updated_at": "2026-10-07T16:27:28Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,17 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "9f8dad580b0e2131",
+      "source_id": "taxfoundation",
+      "source": "Tax Foundation",
+      "source_short": "TF",
+      "title": "2026 State Tax Ballot Measure Tracker",
+      "url": "https://taxfoundation.org/research/state-tax/2026-state-tax-ballot-measures",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-07T16:27:27Z"
+    },
     {
       "id": "f182d2f4c19ef133",
       "source_id": "taxfoundation",
