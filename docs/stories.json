@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T08:56:42Z",
+  "updated_at": "2026-10-08T16:27:28Z",
   "sources": [
     {
       "id": "cato",
@@ -55,6 +55,28 @@
   },
   "errors": [],
   "stories": [
+    {
+      "id": "5776a5da60e8377b",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Interactives October 8, 2026 Revenue from Higher Taxes at the Top Tool Explore how different top-tax policy levers interact with one another. Users can build their own reform package and examine the revenue and distributional implications of the package as a whole, not just of the individual pieces.",
+      "url": "https://budgetlab.yale.edu/research/revenue-higher-taxes-top-tool",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-08T16:27:28Z"
+    },
+    {
+      "id": "f5005c7bfd108bff",
+      "source_id": "ybl",
+      "source": "Yale Budget Lab",
+      "source_short": "YBL",
+      "title": "Reports October 8, 2026 Revenue Potential from Taxes at the Top In this report, we look at the question of how much revenue could realistically be raised from higher taxes on the top, drawing on new features from the Budget Lab's tax model. Careful estimates of revenue capacity are a key input into the policymaking process.",
+      "url": "https://budgetlab.yale.edu/research/revenue-potential-taxes-top",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-08T16:27:28Z"
+    },
     {
       "id": "816cf99c77512427",
       "source_id": "taxfoundation",
