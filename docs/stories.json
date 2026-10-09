@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T09:05:21Z",
+  "updated_at": "2026-10-09T16:11:24Z",
   "sources": [
     {
       "id": "cato",
@@ -48,13 +48,134 @@
     "cato": 0,
     "cbpp": 0,
     "epi": 0,
-    "itep": 14,
+    "itep": 25,
     "taxfoundation": 25,
     "tpc": 0,
     "ybl": 12
   },
   "errors": [],
   "stories": [
+    {
+      "id": "f4c7b3363f33f38e",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "Impact of Key Trump Policies on Taxes and Costs: National and State Estimates",
+      "url": "https://itep.org/impact-of-trump-policies-on-taxes-and-consumer-costs-2026",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-09T16:11:23Z"
+    },
+    {
+      "id": "683be06f14d733bc",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "ITEP Comment on Tax Credit Restrictions for Immigrants",
+      "url": "https://itep.org/itep-comment-on-tax-credit-restrictions-for-immigrants",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-09T16:11:23Z"
+    },
+    {
+      "id": "612b5c36af3f8a51",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "New State Taxes on the Wealthy Raise Revenue and Rebalance Tax Codes, Advancing Racial Justice",
+      "url": "https://itep.org/new-state-taxes-on-the-wealthy-raise-revenue-and-rebalance-tax-codes-advancing-racial-justice",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-09T16:11:23Z"
+    },
+    {
+      "id": "0339bf7e43078c93",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "Trump’s Invasion of Iran Could Cost You Thousands",
+      "url": "https://itep.org/trumps-invasion-of-iran-could-cost-you-thousands",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-09T16:11:23Z"
+    },
+    {
+      "id": "37b6aa1f8df8080e",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "Meta’s Outlandish Tax Breaks for AI Data Centers",
+      "url": "https://itep.org/metas-outlandish-tax-breaks-for-ai-data-centers",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-09T16:11:23Z"
+    },
+    {
+      "id": "b0490374a91ccda0",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "New Estimates of the Total Number of People and Children in Immigrant Families who Could Lose Eligibility for the Refundable Portions of the Earned Income Tax Credit and Child Tax Credit",
+      "url": "https://itep.org/new-estimates-immigrant-families-child-tax-credit-eitc-eligibility",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-09T16:11:23Z"
+    },
+    {
+      "id": "f515bbd7b38d0d24",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "Big Tech Is Raking in Enormous Tax Breaks for AI Development",
+      "url": "https://itep.org/big-tech-is-raking-in-enormous-tax-breaks-for-ai-development",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-09T16:11:23Z"
+    },
+    {
+      "id": "94c16499b49d3923",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "New Census Data Show Importance of Refundable Tax Credits and Need for Improvements",
+      "url": "https://itep.org/new-census-data-child-tax-credit-eitc-need-improvements",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-09T16:11:23Z"
+    },
+    {
+      "id": "6595629a888d58f3",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "TurboTax Maker Intuit Paid Zero Federal Income Tax in 2025",
+      "url": "https://itep.org/intuit-turbotax-zero-federal-taxes",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-09T16:11:23Z"
+    },
+    {
+      "id": "0d708fe7486e0373",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "The Biggest Winners from Trump’s Tariff Refunds are Big Corporations",
+      "url": "https://itep.org/trump-tariff-refunds-corporations-price-increases-walmart-nike",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-09T16:11:23Z"
+    },
+    {
+      "id": "10b2a9782b2caf83",
+      "source_id": "itep",
+      "source": "ITEP",
+      "source_short": "ITEP",
+      "title": "The Impact of Proposed New Tax Credit Restrictions for Immigrant Filers: An Updated Analysis of the DACA Recipient Population",
+      "url": "https://itep.org/tax-credit-restrictions-immigrant-filers-daca-2026",
+      "published_at": null,
+      "summary": "",
+      "first_seen_at": "2026-10-09T16:11:23Z"
+    },
     {
       "id": "5776a5da60e8377b",
       "source_id": "ybl",
