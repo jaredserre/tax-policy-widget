@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T16:11:24Z",
+  "updated_at": "2026-10-09T20:57:40Z",
   "sources": [
     {
       "id": "cato",
@@ -47,7 +47,7 @@
   "counts": {
     "cato": 0,
     "cbpp": 0,
-    "epi": 0,
+    "epi": 10,
     "itep": 25,
     "taxfoundation": 25,
     "tpc": 0,
@@ -1286,6 +1286,116 @@
       "published_at": null,
       "summary": "",
       "first_seen_at": "2026-07-09T18:22:16Z"
+    },
+    {
+      "id": "6c3c34223cc4cb05",
+      "source_id": "epi",
+      "source": "EPI",
+      "source_short": "EPI",
+      "title": "Raising revenues the right way: How we tax matters for building trust in the public sector",
+      "url": "https://www.epi.org/blog/raising-revenues-the-right-way-how-we-tax-matters-for-building-trust-in-the-public-sector",
+      "published_at": "2026-05-14T12:00:28Z",
+      "summary": "Taxes are the price of living well in a modern democratic community. The social contract relies on the idea that people both benefit from and contribute to maintaining a community in the ways they can; the tax code is one way of making sure that happens.",
+      "first_seen_at": "2026-10-09T20:57:39Z"
+    },
+    {
+      "id": "5b529adff1aa78ce",
+      "source_id": "epi",
+      "source": "EPI",
+      "source_short": "EPI",
+      "title": "Employer assessment fees are not an adequate solution to low wages and large safety net cuts",
+      "url": "https://www.epi.org/blog/employer-assessment-fees-are-not-an-adequate-solution-to-low-wages-and-large-safety-net-cuts",
+      "published_at": "2026-02-27T19:32:48Z",
+      "summary": "Too many U.S. employers are breaking the social contract by paying unfairly and inefficiently low wages. These low wages are one reason why even people who work regularly throughout the year can qualify for income assistance programs like Medicaid and the Supplemental Nutrition Assistance Program Further, the Republican-led One Big Beautiful Bill (OBBB) that passed last year will sharply cut Medicaid and SNAP over the next decade by well over $1 trillion The combination of these trends—low-road employers paying insufficient wages and big upcoming cuts to Medicaid and SNAP—has led to a flurry of policy proposals at the state level to address them.",
+      "first_seen_at": "2026-10-09T20:57:39Z"
+    },
+    {
+      "id": "3ff4cca25e22c1fb",
+      "source_id": "epi",
+      "source": "EPI",
+      "source_short": "EPI",
+      "title": "Everything you need to know about “no tax on overtime”",
+      "url": "https://www.epi.org/publication/everything-you-need-to-know-about-no-tax-on-overtime",
+      "published_at": "2026-02-17T13:00:48Z",
+      "summary": "The 2025 Republican budget bill (sometimes called the 2025 Trump tax bill or “One Big Beautiful Bill Act”) created a new federal income tax deduction for the premium portion of overtime pay.",
+      "first_seen_at": "2026-10-09T20:57:39Z"
+    },
+    {
+      "id": "a47934c7671d215d",
+      "source_id": "epi",
+      "source": "EPI",
+      "source_short": "EPI",
+      "title": "Raising taxes on the ultrarich: A necessary first step to restore faith in American democracy and the public sector",
+      "url": "https://www.epi.org/publication/raising-taxes-on-the-ultrarich-a-necessary-first-step-to-restore-faith-in-american-democracy-and-the-public-sector",
+      "published_at": "2025-11-17T10:00:30Z",
+      "summary": "The public has supported raising taxes on the ultrarich and corporations for years, but policymakers have not responded. Small increases in taxes on the rich that were instituted during times of Democratic control of Congress and the White House have been consistently swamped by larger tax cuts passed during times of Republican control.",
+      "first_seen_at": "2026-10-09T20:57:39Z"
+    },
+    {
+      "id": "de701d821821d50e",
+      "source_id": "epi",
+      "source": "EPI",
+      "source_short": "EPI",
+      "title": "News from EPI › U.S. Senator Chris Van Hollen praises EPI proposals to tax the rich",
+      "url": "https://www.epi.org/press/u-s-senator-van-hollen-praises-epi-proposals-to-tax-the-rich",
+      "published_at": "2025-11-17T09:59:41Z",
+      "summary": "Today, U.S. Senator Chris Van Hollen (D-Md.) welcomed the release of EPI’s new report that shares proposals on taxing the ultrarich: &#8220;Donald Trump and Republicans have made crystal clear where their priorities lie with their so-called &#8216;One Big Beautiful Bill&#8217;—not with working Americans, but with billionaires and big corporations.",
+      "first_seen_at": "2026-10-09T20:57:39Z"
+    },
+    {
+      "id": "2f0e8a0838a92736",
+      "source_id": "epi",
+      "source": "EPI",
+      "source_short": "EPI",
+      "title": "News from EPI › EPI president Heidi Shierholz denounces passage of GOP budget bill",
+      "url": "https://www.epi.org/press/epi-president-heidi-shierholz-denounces-passage-of-gop-budget-bill",
+      "published_at": "2025-07-03T18:41:28Z",
+      "summary": "Congress just passed one of the most destructive economic bills in generations. The Republican budget will gut Medicaid, slash food aid for families, and shutter rural hospitals—just to give tax breaks that will go overwhelmingly to the wealthy.",
+      "first_seen_at": "2026-10-09T20:57:39Z"
+    },
+    {
+      "id": "8cd4ec5c22db47e8",
+      "source_id": "epi",
+      "source": "EPI",
+      "source_short": "EPI",
+      "title": "The radical Republican budget bill steals from the poor to give tax cuts to the rich",
+      "url": "https://www.epi.org/blog/the-radical-republican-budget-bill-steals-from-the-poor-to-give-tax-cuts-to-the-rich",
+      "published_at": "2025-07-02T20:53:51Z",
+      "summary": "Yesterday, the Senate passed a budget bill that will create a weaker and more unequal U.S. economy. It is even more radical than the House version, with deeper Medicaid cuts that will destroy rural hospitals and strain state budgets, while adding nearly $4 trillion to the federal deficit.",
+      "first_seen_at": "2026-10-09T20:57:39Z"
+    },
+    {
+      "id": "8cddebdade62a7a5",
+      "source_id": "epi",
+      "source": "EPI",
+      "source_short": "EPI",
+      "title": "Republicans are trying to hide just how much their budget bill costs",
+      "url": "https://www.epi.org/blog/republicans-are-trying-to-hide-just-how-much-their-budget-bill-costs",
+      "published_at": "2025-07-02T19:25:06Z",
+      "summary": "The writer Dan Davies once noted that “Good ideas do not need lots of lies told about them in order to gain public acceptance.” It’s always a useful insight, and particularly relevant to how the Senate passed its version of the radical Republican budget bill earlier this The legislation is mostly a stunning exercise in the upward redistribution of income, consisting of huge tax cuts mostly for the rich and steep spending cuts mostly for health care and nutrition assistance programs used by vulnerable families.",
+      "first_seen_at": "2026-10-09T20:57:39Z"
+    },
+    {
+      "id": "c51f3b239991e8cf",
+      "source_id": "epi",
+      "source": "EPI",
+      "source_short": "EPI",
+      "title": "Forget ‘no tax on tips’—increasing the minimum wage would deliver dramatically larger raises for millions more workers without letting employers off the hook",
+      "url": "https://www.epi.org/blog/increase-the-minimum-wage-forget-no-tax-on-tips",
+      "published_at": "2025-06-12T13:28:05Z",
+      "summary": "At President Trump’s direction, Congress is considering proposals to exempt tips from taxable income. After Trump floated this gimmick on the campaign trail, Republican and Democratic elected officials alike have embraced the idea.",
+      "first_seen_at": "2026-10-09T20:57:39Z"
+    },
+    {
+      "id": "e9fc2c4b2bc0003e",
+      "source_id": "epi",
+      "source": "EPI",
+      "source_short": "EPI",
+      "title": "House budget bill would kick 15 million people off health insurance and damage local economies",
+      "url": "https://www.epi.org/blog/house-budget-bill-would-kick-15-million-people-off-health-insurance-and-damage-local-economies",
+      "published_at": "2025-06-03T12:00:19Z",
+      "summary": "Update: On June 4, 2025, the Congressional Budget Office released a new estimate that as many as 16 million people would lose their health insurance under the House&#8217;s budget House Republicans wanted to find a way to defray the cost of the tax cuts they passed for the richest households in the country.",
+      "first_seen_at": "2026-10-09T20:57:39Z"
     }
   ]
 }
